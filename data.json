@@ -1,63 +1,63 @@
 [
     {
         "name": "Push-Ups",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "A classic exercise to work out your chest, triceps and shoulders.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Squats",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "An effective exercise to strengthen your legs and glutes.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Lunges",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "A great exercise for your legs and hips.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Plank",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "An effective exercise to strengthen your core.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Burpees",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "A full-body exercise to increase cardiovascular endurance.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Jumping Jacks",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "A simple and effective cardio exercise.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Mountain Climbers",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "A cardio exercise that works multiple muscle groups.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Bicep Curls",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "An effective exercise to strengthen your biceps.",
         "age group": "20 to 40",
         "duration": "30 "
     },
     {
         "name": "Tricep Dips",
-        "image": "https://picsum.photos/250/100",
+        "image": "https://loremflickr.com/250/100/gym",
         "desc": "An effective exercise to strengthen your triceps.",
         "age group": "20 to 40",
         "duration": "30 "
